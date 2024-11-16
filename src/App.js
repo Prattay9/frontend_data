@@ -8,6 +8,7 @@ import ProjectList from './components/ProjectList';
 import UserDetails from './components/UserDetails';
 import Login from './components/Login';
 import Navbar from './components/Navbar';
+import './App.css';
 
 function App() {
   const currentUrl = window.location.href;
